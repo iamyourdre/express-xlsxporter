@@ -6,4 +6,4 @@
 
 ### Reference
 
-This project was built based on the tutorial available at [bezkoder.com](https://www.bezkoder.com/node-js-upload-excel-file-database/). Special thanks to the author for the valuable resources.
+Special thanks to [bezkoder.com](https://www.bezkoder.com/node-js-upload-excel-file-database/) for the valuable resources and references.
